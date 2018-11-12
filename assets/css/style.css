@@ -1,0 +1,91 @@
+
+
+header {    
+    width: 30%;
+    height: 80px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+
+   }
+
+
+
+h2.word  {
+    /* font-size: 25px;
+    padding: 20px;
+    text-align: left;    */
+}
+  
+h2, h3 { padding: 15px;
+        text-align: right;
+}
+.wins { 
+    width: 30%;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+ .currentWord { 
+    width: 30%;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px; 
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+} 
+
+.letterGuess { 
+    width: 30%;
+    height: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.underScore {
+    width: 30%;
+    font-size: 80px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+    }
+
+.remainingLetters {
+    width: 30%;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.lettersUsed {
+    width: 30%;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
