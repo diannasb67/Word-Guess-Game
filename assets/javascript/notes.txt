@@ -1,7 +1,0 @@
-
-// // create underscores based on word length 
-// var answerArray = [];
-// for (var i = 0; i < destinations.length; i++) {
-//     answerArray[i] = "_";
-// }
-
